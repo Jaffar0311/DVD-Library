@@ -1,0 +1,5 @@
+t4    2000    R    some director    some stu    ok    
+title    date    rating    dir    stu    rating    
+t1    2022    R    Scott    MGM    Good    
+t2    2000    PG    Allen    stud    good    
+t3    2003    R    new dir    stud    not good    
